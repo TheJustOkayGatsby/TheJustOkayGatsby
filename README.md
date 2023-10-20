@@ -1,16 +1,13 @@
-### Hi there 👋
+Hey!
+My name is Patrick and I am a Data Science/Analytics professional from the USA🗽!
 
-<!--
-**TheJustOkayGatsby/TheJustOkayGatsby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+--> About me in 5 bullet points!
+- 🧭 Focuses on automation, analysis, ML, AI, and visualization
+- ⌨️ SQL, Python, Java, C++, HTML, CSS
+- 🏛️ BSc Economics & MSc Data Analytics
+- Love 🥘cooking🥘, 🍞baking🍞, 🛹skating🛹, ☕third wave coffee☕, and 🪴gardening🪴!
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  In my GitHub you'll find a collection of excercises and a few projects relating to my education. Some of these are scratch, and most are to ensure I've understood a concept. Currently, these are:
+  - AI and ML
+  - Data Mining
+  - Advanced Python
