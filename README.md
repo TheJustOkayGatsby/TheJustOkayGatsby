@@ -1,17 +1,30 @@
-Hey!
-My name is Patrick and I am a Data Science/Analytics professional from the USA🗽!
+### Hi there, I'm Patrick 👋
 
-A quick overview of me:
+**Data & AI Specialist | Lead Instructor @ Amsterdam Data Academy | Analytics & Automation Professional**
 
-- 🧭 Focuses on **automation**, **analysis**, **machine learning**, **artificial intelligence**, **cloud computing**, and **visualization**
-- ⌨️ SQL, Python, Java, C++, HTML, CSS
-- 📊 MongoDB Atlas, Looker, Tableau, PowerBI
-- 🏛️ BSc Economics & MSc Data Analytics
-- Loves
-  - 🥘cooking🥘,
-  - 🍞baking🍞,
-  - 🛹skating🛹,
-  - ☕third wave coffee☕, and
-  - 🪴gardening🪴!
+I specialize in transforming complex, high-volume datasets into production-grade predictive models, automated workflows, and strategic business insights. With a dual background in industry analytics (e-commerce, AI quality control, government automation) and technical education, I bridge the gap between heavy technical execution and business strategy.
 
- In my GitHub you'll find a excercises and a few projects relating to my experience, typically Data Mining, AI, and ML. Most of these are scratch, and most are to ensure I've understood a concept. 
+---
+
+### 💻 Technical Toolkit
+* **Languages & Querying:** Python, SQL (CTEs, Window Functions), R, Java, C++, HTML/CSS
+* **Analytics & Machine Learning:** Statistical Testing, Predictive Modeling, A/B Testing, CRISP-DM, LLM Pattern Analysis
+* **Visualization & BI:** Tableau, Power BI, Looker, MongoDB Atlas
+* **Cloud & Tools:** Google Cloud Platform (GCP), Microsoft Azure, AWS, Jamovi, Excel
+
+---
+
+### 🏛️️ Background & Education
+* **MSc Data Analytics & BSc Economics** (Focus on Econometrics, Macro/Micro Economics, and Data Mining)
+* **Experience:** Amsterdam Data Academy, Just Eat Takeaway.com, TELUS International AI, U.S. Forest Service, NNSA
+
+---
+
+### 📂 About This GitHub
+You'll find a collection of exercises, technical scratchpads, and code implementations exploring Data Mining, Artificial Intelligence, and Machine Learning. Most of these repositories are built from scratch to test hypotheses, model architectures, and deepen core conceptual understanding.
+
+---
+
+### 🌱 Beyond the Code
+When I'm not writing code or teaching data bootcamps, you can find me exploring:
+🥘 Cooking & Baking | 🛹 Skating | ☕ Third Wave Coffee | 🪴 Gardening
