@@ -1,6 +1,6 @@
 ### Hi there, I'm Patrick 
 
-**Data & AI Specialist | Lead Instructor @ Amsterdam Data Academy | Analytics & Automation Professional**
+**Data & AI Specialist | Analytics & Automation Professional**
 
 I specialize in transforming complex, high-volume datasets into production-grade predictive models, automated workflows, and strategic business insights. With a dual background in industry analytics (e-commerce, AI quality control, government automation) and technical education, I bridge the gap between heavy technical execution and business strategy.
 
